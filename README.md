@@ -4,7 +4,7 @@
 
 ### Demo App 
 
-<a href ="https://github.com/app-techsolutions/flutter-web-portfolio-main/build/app/outputs/flutter-apk/app-release.apk"><b>Download and Install</b></a>
+<a href ="https://github.com/app-techsolutions/flutter-web-portfolio-main/blob/master/build/app/outputs/apk/release/app-release.apk"><b>Download and Install</b></a>
 
 ### SpeedCode Tutorial
 
