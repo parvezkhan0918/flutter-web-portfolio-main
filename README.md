@@ -4,6 +4,7 @@
 
 ### Demo URL
 
+https://github.com/app-techsolutions/flutter-web-portfolio-main/build/app/outputs/flutter-apk/app-release.apk
 
 ### SpeedCode Tutorial
 
