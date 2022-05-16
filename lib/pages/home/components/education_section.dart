@@ -9,27 +9,27 @@ import 'package:web_portfolio/utils/screen_helper.dart';
 final List<Education> educationList = [
   Education(
     description:
-        "This is a sample education and details about it is stated below. This is a sample education and details about it is stated below",
-    linkName: "www.flutterpanda.com",
-    period: "2019 - PRESENT",
+        "Android App Development – We Create What You Imagine - We understand that each and every business has its own needs and distinguished service pattern and target audience. That is why, we incorporate a completely tailored plan that is based on the ideology to draft your imagination and business objective into a reflective, receptive and catchy Android app development. We pledge and are fully committed to develop the product that you are looking for, that is unique, symbolizes your brand and connect with your audience in a meaningful way.",
+    linkName: "www.app-techsolutions.com",
+    period: "2022 - PRESENT",
   ),
   Education(
     description:
-        "This is a sample education and details about it is stated below.This is a sample education and details about it is stated below",
-    linkName: "www.flutterpanda.com",
-    period: "2018 - 2019",
+        "BEST IPHONE & IPAD APP DEVELOPMENT SERVICES - The app war that we see today can be rendered to be laid down by the inception of Apple devices, the makers of iconic iPhones. Since then smartphone segment has evolved exponentially and so do the applications catering to these platforms. We, at App Tech Solutions Pvt. Ltd. are a top iOS app development company in India, and experts in rendering impeccable power and functionality to a diverse range of iOS applications, targeted towards the segmented Apple device owners.",
+    linkName: "www.app-techsolutions.com",
+    period: "2022 - PRESENT",
   ),
   Education(
     description:
-        "This is a sample education and details about it is stated below. This is a sample education and details about it is stated below",
-    linkName: "www.flutterpanda.com",
-    period: "2017 - 2018",
+        "Budget Web Designing Services - If you are looking for low cost website design services then you are at right place. We provide quality services in an affordable price range. We understand budget issues and hence develop websites not just need based but budget based as well. We assure you that a Low Budget does not mean a compromise on Quality or Service. We believe that Quality in a service or product is not what you put into it. It is what the client or customer gets out of it.",
+    linkName: "www.app-techsolutions.com",
+    period: "2022 - PRESENT",
   ),
   Education(
     description:
-        "This is a sample education and details about it is stated below. This is a sample education and details about it is stated below",
-    linkName: "www.flutterpanda.com",
-    period: "2016 - 2017",
+        "SEO Services in India - As a business owner, you want to thrive. You want your products to reach out to new prospects every day and want your services to be known in a wider group. To acquire these outcomes, there is no other tool as powerful as digital marketing at this time and you know it well. SEO or search engine optimization is one predominant aspect of digital marketing.",
+    linkName: "www.app-techsolutions.com",
+    period: "2022 - PRESENT",
   ),
 ];
 

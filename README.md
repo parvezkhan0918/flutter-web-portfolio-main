@@ -5,11 +5,10 @@
 ### Demo URL
 https://web-portfolio-ddd55.web.app
 
-
 ### SpeedCode Tutorial
-https://youtu.be/MD9_J09I6ew
 
-https://youtu.be/lZ5hhEpnn3s
+
+
 
 Web Portfolio, Based on a design on UpLabs and hosted on Firebase 💓.
 

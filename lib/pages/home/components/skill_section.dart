@@ -55,7 +55,7 @@ class SkillSection extends StatelessWidget {
                 Expanded(
                   flex: ScreenHelper.isMobile(context) ? 0 : 2,
                   child: Image.asset(
-                    "assets/person_small.png",
+                    "assets/parvez.png",
                     width: 300.0,
                   ),
                 ),
