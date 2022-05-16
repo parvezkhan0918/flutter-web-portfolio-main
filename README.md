@@ -49,14 +49,3 @@ Parvez Khan [![Twitter Follow](https://img.shields.io/twitter/follow/AppTechSolu
 ![Screenshot](https://github.com/app-techsolutions/flutter-web-portfolio-main/blob/master/screenshots/screenshot6.png)
 ![Screenshot](https://github.com/app-techsolutions/flutter-web-portfolio-main/blob/master/screenshots/screenshot7.png)
 
-
-
-#### Mobile Screens
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-
