@@ -16,7 +16,7 @@ Complete flutter projects are available on my <a href="https://www.app-techsolut
 
 PRs are welcomed. Issues are welcomed too.
 
-Send me UI suggestions for any uplabs project on <a href="mailto:info@app-techsolutions">info@app-techsolutions</a>
+Send me UI suggestions for any uplabs project on <a href="mailto:info@app-techsolutions">info@app-techsolutions.com</a>
 
 ### Support App
 
