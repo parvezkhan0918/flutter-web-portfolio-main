@@ -41,13 +41,13 @@ Or Support me on Patreon
 Olayemi Garuba [![Twitter Follow](https://img.shields.io/twitter/follow/iam_olayemii.svg?style=social)](https://twitter.com/iam_olayemii)
 
 
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589180/assets/web1_y9yrmi.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589179/assets/web2_zn7w5n.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589176/assets/web3_mmq07i.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589176/assets/web4_ewgepc.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589180/assets/web5_pqw6x2.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589190/assets/web6_bdngkk.png)
-![Screenshot](https://res.cloudinary.com/olayemii/image/upload/v1613589174/assets/web7_yhg33u.png)
+![Screenshot](https://github.com/app-techsolutions/flutter-web-portfolio-main/blob/master/screenshots/screenshot1.png)
+![Screenshot](https://github.com/app-techsolutions/flutter-web-portfolio-main/blob/master/screenshots/screenshot2.png)
+![Screenshot](https://github.com/app-techsolutions/flutter-web-portfolio-main/blob/master/screenshots/screenshot3.png)
+![Screenshot](https://github.com/app-techsolutions/flutter-web-portfolio-main/blob/master/screenshots/screenshot4.png)
+![Screenshot](https://github.com/app-techsolutions/flutter-web-portfolio-main/blob/master/screenshots/screenshot5.png)
+![Screenshot](https://github.com/app-techsolutions/flutter-web-portfolio-main/blob/master/screenshots/screenshot6.png)
+![Screenshot](https://github.com/app-techsolutions/flutter-web-portfolio-main/blob/master/screenshots/screenshot7.png)
 
 
 
