@@ -1,10 +1,10 @@
-# 🔥 🔥 Flutter Web Portfolio 🔥 🔥 💫 ⭐️ ⭐️ 👨‍💻 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/iam_olayemii.svg?style=social)](https://twitter.com/iam_olayemii)
+# 🔥 🔥 Flutter Web Portfolio 🔥 🔥 💫 ⭐️ ⭐️ 👨‍💻 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/app-techsolutions.svg?style=social)](https://twitter.com/apptechsolutio1)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/app-techsolutions/flutter-web-portfolio?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/app-techsolutions/flutter-web-portfolio?style=social) ![GitHub followers](https://img.shields.io/github/followers/app-techsolutions?style=social)
 
-### Demo URL
+### Demo App 
 
-https://github.com/app-techsolutions/flutter-web-portfolio-main/build/app/outputs/flutter-apk/app-release.apk
+<a href ="https://github.com/app-techsolutions/flutter-web-portfolio-main/build/app/outputs/flutter-apk/app-release.apk"><b>Download and Install</b></a>
 
 ### SpeedCode Tutorial
 
