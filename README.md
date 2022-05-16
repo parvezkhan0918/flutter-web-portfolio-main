@@ -38,7 +38,7 @@ Or Support me on Patreon
 
 ### 👨‍💻 Author
 
-Parvez Khan [![Twitter Follow](https://img.shields.io/twitter/follow/app-techsolutions.svg?style=social)](https://twitter.com/AppTechSolutio1)
+Parvez Khan [![Twitter Follow](https://img.shields.io/twitter/follow/AppTechSolutio1.svg?style=social)](https://twitter.com/AppTechSolutio1)
 
 
 ![Screenshot](https://github.com/app-techsolutions/flutter-web-portfolio-main/blob/master/screenshots/screenshot1.png)
